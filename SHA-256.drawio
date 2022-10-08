@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-08T20:32:38.393Z" agent="5.0 (Windows)" etag="jG3QjdeC5EHbq2TegtCc" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-08T20:45:22.181Z" agent="5.0 (Windows)" etag="d6LgGLsB6HtSuMaECcnS" version="20.2.8" type="github">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="Página-1">
     <mxGraphModel dx="982" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2110,11 +2110,11 @@
         <mxCell id="MJP8c1buYIABmgIryJFc-862" value="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="800" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MJP8c1buYIABmgIryJFc-863" value="&amp;gt;&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;spacingBottom=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="800" width="20" height="20" as="geometry" />
+        <mxCell id="MJP8c1buYIABmgIryJFc-863" value="RS" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;spacingBottom=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="800" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MJP8c1buYIABmgIryJFc-864" value="3" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="300" y="800" width="20" height="20" as="geometry" />
+          <mxGeometry x="320" y="800" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MJP8c1buYIABmgIryJFc-924" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;jumpStyle=none;jumpSize=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=default;strokeWidth=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;startSize=2;endSize=1;sourcePerimeterSpacing=1;targetPerimeterSpacing=1;" edge="1" parent="1" source="MJP8c1buYIABmgIryJFc-886" target="MJP8c1buYIABmgIryJFc-910">
           <mxGeometry relative="1" as="geometry" />
