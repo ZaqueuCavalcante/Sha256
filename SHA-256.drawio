@@ -1,16 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-10-08T15:37:39.420Z" agent="5.0 (Windows)" etag="40ZYluQKE-A9lx6AvJUP" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-08T15:39:32.188Z" agent="5.0 (Windows)" etag="fvmBLYCa0tywR_c8xEGh" version="20.2.8" type="github">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="Página-1">
-    <mxGraphModel dx="687" dy="248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Oh8Jn7zO_o9vtSne1rGO-1" value="SHA-256" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="MJP8c1buYIABmgIryJFc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Oh8Jn7zO_o9vtSne1rGO-1" target="Oh8Jn7zO_o9vtSne1rGO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh8Jn7zO_o9vtSne1rGO-1" value="SHA-256" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Oh8Jn7zO_o9vtSne1rGO-2" value="Data" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="MJP8c1buYIABmgIryJFc-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Oh8Jn7zO_o9vtSne1rGO-2" target="Oh8Jn7zO_o9vtSne1rGO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh8Jn7zO_o9vtSne1rGO-2" value="Data" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Oh8Jn7zO_o9vtSne1rGO-3" value="Hash" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Oh8Jn7zO_o9vtSne1rGO-3" value="Hash" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="230" y="50" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
