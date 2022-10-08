@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-08T18:30:57.526Z" agent="5.0 (Windows)" etag="tpODywcUpCcTi5JXfV4n" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-08T18:33:19.370Z" agent="5.0 (Windows)" etag="fWXGvrhfUBl5eusWDjf2" version="20.2.8" type="github">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="Página-1">
     <mxGraphModel dx="1057" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2051,7 +2051,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MJP8c1buYIABmgIryJFc-763" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;fillColor=none;flipH=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="440" y="140" width="60" height="60" as="geometry" />
+          <mxGeometry x="600" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MJP8c1buYIABmgIryJFc-764" value="" style="shape=manualInput;whiteSpace=wrap;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;fillColor=none;flipH=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MJP8c1buYIABmgIryJFc-766" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;flowAnimation=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="MJP8c1buYIABmgIryJFc-763" target="MJP8c1buYIABmgIryJFc-764">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="189.88" as="sourcePoint" />
+            <mxPoint x="705" y="189.88" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
