@@ -1,10 +1,8 @@
 # Sha256
 
-Clickbait: onde está a segurança do JWT? (E do Bitcoin? E da web?)
+Onde está a segurança do JWT? (E do Bitcoin? E da web?)
 
 Muito utilizado em APIs mundo a fora, mas o que garante a segurança? Pra variar, Matemática!
-
-Vou explicar aqui o jeito mais simples, com uma única chave privada, armazenada no servidor.
 
 O único jeito de gerar um token válido é descobrir a chave usada para assinar o JWT.
 
