@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T23:05:54.914Z" agent="5.0 (Windows)" etag="kFweAidXxGaikFSHUm2H" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-09T23:06:01.181Z" agent="5.0 (Windows)" etag="leENWdEt7Xb36u4DMPJI" version="20.4.0" type="github" pages="3">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2946" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2481,7 +2481,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ikq9gCk40znZLqPkK2WF" name="HTTPS">
-    <mxGraphModel dx="2119" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2497,13 +2497,13 @@
         <mxCell id="1kG8JXh9Id90ea8Ohpla-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="1kG8JXh9Id90ea8Ohpla-5" target="1kG8JXh9Id90ea8Ohpla-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1kG8JXh9Id90ea8Ohpla-5" value="HTTP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="1kG8JXh9Id90ea8Ohpla-5" value="HTTP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="880" y="30" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1kG8JXh9Id90ea8Ohpla-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="1kG8JXh9Id90ea8Ohpla-7" target="1kG8JXh9Id90ea8Ohpla-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1kG8JXh9Id90ea8Ohpla-7" value="HTTPS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="1kG8JXh9Id90ea8Ohpla-7" value="HTTPS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1026" y="30" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1kG8JXh9Id90ea8Ohpla-8" value="Transfer plain text" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
