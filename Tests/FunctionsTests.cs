@@ -113,4 +113,17 @@ public class FunctionsTests
         // Assert
         inputAsBits.Should().Be("011000010110001001100011");
     }
+
+    [Test]
+    public void Test_08()
+    {
+        // Arrange
+        const string input = "abc";
+
+        // Act
+        var inputAsBits = Functions.PaddingTo512Bits(input);
+
+        // Assert
+        inputAsBits.Should().Be("011000010110001001100011");
+    }
 }
