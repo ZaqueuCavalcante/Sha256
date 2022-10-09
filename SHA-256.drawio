@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T22:46:54.717Z" agent="5.0 (Windows)" etag="Crvz3bIzSZrlWi3BAX_F" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-09T22:53:05.772Z" agent="5.0 (Windows)" etag="51AyZ5qmvBNmwToaDXKA" version="20.4.0" type="github" pages="2">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2946" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2421,7 +2421,7 @@
           <mxGeometry x="1022" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GXUcnK-ZBqIuBVLUyNFK-17" value="TLS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1580" y="50" width="100" height="40" as="geometry" />
+          <mxGeometry x="1600" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GXUcnK-ZBqIuBVLUyNFK-18" value="Domain" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1022" y="100" width="100" height="40" as="geometry" />
@@ -2494,6 +2494,9 @@
         </mxCell>
         <mxCell id="BHAdGBuZ8taiHSISHO26-3" value="Transfer plain text" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1312" y="130" width="98" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BHAdGBuZ8taiHSISHO26-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startArrow=classic;startFill=1;" edge="1" parent="1" source="BHAdGBuZ8taiHSISHO26-5" target="GXUcnK-ZBqIuBVLUyNFK-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BHAdGBuZ8taiHSISHO26-5" value="Encrypt before transfer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1442" y="130" width="128" height="60" as="geometry" />
