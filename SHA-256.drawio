@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T23:07:50.273Z" agent="5.0 (Windows)" etag="vI2ggWRq3-C0AIusIrEI" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-09T23:20:38.463Z" agent="5.0 (Windows)" etag="anEKLXbrj_CRV1pWcpr9" version="20.4.0" type="github" pages="3">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2946" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2526,6 +2526,9 @@
         </mxCell>
         <mxCell id="1kG8JXh9Id90ea8Ohpla-14" value="Handshake" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="310" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kG8JXh9Id90ea8Ohpla-15" value="Man in the middle???" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="40" width="128" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
