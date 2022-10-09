@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T14:37:12.968Z" agent="5.0 (Windows)" etag="WstXJuqh-P9ipGpIRZG4" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-09T14:37:45.120Z" agent="5.0 (Windows)" etag="zatVmKu3ZClKLHwsLnM5" version="20.4.0" type="github" pages="2">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2946" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2368,10 +2368,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sVYxCH4EQUGMHe45GJaQ" name="Docker">
-    <mxGraphModel dx="2062" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GXUcnK-ZBqIuBVLUyNFK-1" value="DOCKER" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
