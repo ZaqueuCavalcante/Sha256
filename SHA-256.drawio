@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T15:53:03.159Z" agent="5.0 (Windows)" etag="W7ZDYZfA5Iv2lVTztYsN" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-09T15:53:12.080Z" agent="5.0 (Windows)" etag="OaZ_saPV_0Xlax7xiPwX" version="20.4.0" type="github" pages="2">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2946" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2419,6 +2419,9 @@
         </mxCell>
         <mxCell id="GXUcnK-ZBqIuBVLUyNFK-16" value="Modelo OSI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1340" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GXUcnK-ZBqIuBVLUyNFK-17" value="TLS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="900" y="160" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
