@@ -107,3 +107,9 @@ O único jeito de gerar um token válido é descobrir a chave usada para assinar
 - []()
 - []()
 - []()
+
+
+https://github.com/in3rsha/sha256-animation
+https://en.wikipedia.org/wiki/SHA-2
+https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/
+https://blog.pagefreezer.com/sha-256-benefits-evidence-authentication
