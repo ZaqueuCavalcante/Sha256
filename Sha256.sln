@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sha256", "Src\Sha256.csproj", "{D1CBEFD0-12A6-4253-93E4-330703A97FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{AAF01BEE-68C5-4CE0-AC1D-AFE4F8297244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1CBEFD0-12A6-4253-93E4-330703A97FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CBEFD0-12A6-4253-93E4-330703A97FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CBEFD0-12A6-4253-93E4-330703A97FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CBEFD0-12A6-4253-93E4-330703A97FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF01BEE-68C5-4CE0-AC1D-AFE4F8297244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF01BEE-68C5-4CE0-AC1D-AFE4F8297244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF01BEE-68C5-4CE0-AC1D-AFE4F8297244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF01BEE-68C5-4CE0-AC1D-AFE4F8297244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
