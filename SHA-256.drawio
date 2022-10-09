@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T22:55:08.013Z" agent="5.0 (Windows)" etag="Xu39M1z0d-8NrZzCUYaF" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-09T23:03:52.328Z" agent="5.0 (Windows)" etag="GaYex1KECnpkd67HspSX" version="20.4.0" type="github" pages="2">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2946" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2426,7 +2426,7 @@
         <mxCell id="BHAdGBuZ8taiHSISHO26-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;startArrow=none;startFill=0;" edge="1" parent="1" source="GXUcnK-ZBqIuBVLUyNFK-17" target="BHAdGBuZ8taiHSISHO26-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GXUcnK-ZBqIuBVLUyNFK-17" value="SSL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GXUcnK-ZBqIuBVLUyNFK-17" value="SSL/TLS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1600" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GXUcnK-ZBqIuBVLUyNFK-18" value="Domain" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
@@ -2510,8 +2510,8 @@
         <mxCell id="BHAdGBuZ8taiHSISHO26-8" value="Public Key Encryption" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1510" y="250" width="128" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BHAdGBuZ8taiHSISHO26-10" value="Certificate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="250" width="128" height="60" as="geometry" />
+        <mxCell id="BHAdGBuZ8taiHSISHO26-10" value="&lt;div&gt;Certificate&lt;/div&gt;&lt;div&gt;(garante a identidade do site)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="250" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
