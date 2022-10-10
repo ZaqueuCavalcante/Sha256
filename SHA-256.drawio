@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T15:14:58.972Z" agent="5.0 (Windows)" etag="75QzbcNpGAR3q87Rx2s-" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-10T15:19:10.642Z" agent="5.0 (Windows)" etag="utba_kHz0svdlCEFLdxB" version="20.4.0" type="github" pages="3">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2062" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2399,8 +2399,8 @@
         <mxCell id="GXUcnK-ZBqIuBVLUyNFK-9" value="Client" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="474" y="260" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GXUcnK-ZBqIuBVLUyNFK-10" value="Registry" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="474" y="310" width="100" height="40" as="geometry" />
+        <mxCell id="GXUcnK-ZBqIuBVLUyNFK-10" value="&lt;div&gt;Registry&lt;/div&gt;&lt;div&gt;DockerHub&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="466" y="310" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GXUcnK-ZBqIuBVLUyNFK-11" value="Dockerfile" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="600" y="210" width="100" height="40" as="geometry" />
