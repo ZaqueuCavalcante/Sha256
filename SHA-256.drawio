@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T18:56:55.616Z" agent="5.0 (Windows)" etag="JPNDlTtD6T9A1aixjslE" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-10T18:57:54.350Z" agent="5.0 (Windows)" etag="sKI2FeJ4reOWzDH-EwLr" version="20.4.0" type="github" pages="3">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2062" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2486,8 +2486,8 @@
         <mxCell id="qTx-IPtKv0ZtaP-bDrm1-3" value=".dockerignore" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250" y="320" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qTx-IPtKv0ZtaP-bDrm1-4" value="&lt;div&gt;Build Stage&lt;/div&gt;&lt;div&gt;---&lt;/div&gt;&lt;div&gt;Runtime Stage&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="530" width="220" height="100" as="geometry" />
+        <mxCell id="qTx-IPtKv0ZtaP-bDrm1-4" value="&lt;div&gt;Multi-Stage Build&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Build Stage&lt;/div&gt;&lt;div&gt;---&lt;/div&gt;&lt;div&gt;Runtime Stage&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="220" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
