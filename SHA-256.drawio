@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T19:54:37.782Z" agent="5.0 (Windows)" etag="ZQYPAsCptDYl3J4zySOZ" version="20.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-11T19:55:05.970Z" agent="5.0 (Windows)" etag="AsbI3tI7q18zIuWyoa2C" version="20.4.0" type="github" pages="4">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2062" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2567,6 +2567,12 @@
         </mxCell>
         <mxCell id="D8I0cIiGsbQFotpk78cf-3" value="Load Balancer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1100" y="120" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UwCMWm0_6LN4VRLsuzRw-1" value="IP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1251" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UwCMWm0_6LN4VRLsuzRw-2" value="DNS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1360" y="130" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
