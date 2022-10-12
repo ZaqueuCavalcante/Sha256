@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T17:55:16.002Z" agent="5.0 (Windows)" etag="68R2rrRFJpjI9_dkZkgH" version="20.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-12T17:55:46.792Z" agent="5.0 (Windows)" etag="aMaz00Vx2riQ1Y-S3MkB" version="20.4.0" type="github" pages="5">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2946" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2594,6 +2594,12 @@
         </mxCell>
         <mxCell id="-HFo2a4hSio_8m-JPtDK-1" value="&lt;div&gt;Routing Table&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="930" y="120" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-HFo2a4hSio_8m-JPtDK-2" value="TCP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1280" y="180" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-HFo2a4hSio_8m-JPtDK-3" value="UDP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1390" y="180" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
