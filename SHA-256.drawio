@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T23:52:26.841Z" agent="5.0 (Windows)" etag="CmX_RCw27yB9OPSYJ811" version="20.4.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-10-30T15:18:18.322Z" agent="5.0 (Windows)" etag="9D4pa3_S9DA8xWZcI9UV" version="20.5.1" type="github" pages="7">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2062" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2617,30 +2617,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3lYZjB0NTltLRM-nuhny" name="Dotnet">
-    <mxGraphModel dx="595" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8OnBjK_xxZkdtiqut1Og-1" value="&lt;div&gt;Dotnet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="8OnBjK_xxZkdtiqut1Og-1" value="&lt;div&gt;Dotnet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1100" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YNIcA3cU3_wPyDw_elu3-1" value="Reverse Proxy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YNIcA3cU3_wPyDw_elu3-1" value="Reverse Proxy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="940" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YNIcA3cU3_wPyDw_elu3-2" value="IIS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="YNIcA3cU3_wPyDw_elu3-2" value="IIS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YNIcA3cU3_wPyDw_elu3-3" value="APACHE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="YNIcA3cU3_wPyDw_elu3-3" value="APACHE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="210" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YNIcA3cU3_wPyDw_elu3-4" value="NGINX" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="YNIcA3cU3_wPyDw_elu3-4" value="NGINX" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="210" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YNIcA3cU3_wPyDw_elu3-5" value="Web Server" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YNIcA3cU3_wPyDw_elu3-5" value="Web Server" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1260" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YNIcA3cU3_wPyDw_elu3-7" value="KESTREL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="YNIcA3cU3_wPyDw_elu3-7" value="KESTREL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MHU9MeOWPqUY4y20WF4d-1" value="HttpContext" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="160" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
