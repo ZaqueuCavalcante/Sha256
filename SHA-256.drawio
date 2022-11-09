@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T13:37:49.852Z" agent="5.0 (Windows)" etag="3Urvmuu2AeWc31ATP3k9" version="20.5.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-11-09T13:38:37.175Z" agent="5.0 (Windows)" etag="Uq86uCcbEIlJ-a6K-sNu" version="20.5.3" type="github" pages="8">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2062" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2665,6 +2665,9 @@
             <mxPoint x="1030" y="209.5" as="sourcePoint" />
             <mxPoint x="1090" y="209.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bPtYE1toF4IA4pkXxLno-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="164.5" width="169" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
