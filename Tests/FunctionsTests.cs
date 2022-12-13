@@ -7,6 +7,7 @@ namespace Tests;
 public class FunctionsTests
 {
     [Test]
+    [Description("Deve rotacionar os bits 3 casas à direita.")]
     public void Test_00()
     {
         // Arrange
@@ -26,7 +27,7 @@ public class FunctionsTests
         const UInt32 bits = 0b_00000000_00000000_00111111_11111111;
 
         // Act
-        var rotatedBits = Functions.Rtr7Rtr18Shr3(bits);
+        var rotatedBits = Functions.Rotr7Rotr18Shr3(bits);
 
         // Assert
         rotatedBits.Should().Be(0b_11110001_11111111_11000111_10000000);
@@ -39,7 +40,7 @@ public class FunctionsTests
         const UInt32 bits = 0b_00000000_00000000_00111111_11111111;
 
         // Act
-        var rotatedBits = Functions.Rtr17Rtr19Shr10(bits);
+        var rotatedBits = Functions.Rotr17Rotr19Shr10(bits);
 
         // Assert
         rotatedBits.Should().Be(0b_00011000_00000000_01100000_00001111);
@@ -52,7 +53,7 @@ public class FunctionsTests
         const UInt32 bits = 0b_00000000_00000000_00111111_11111111;
 
         // Act
-        var rotatedBits = Functions.Rtr2Rtr13Rtr22(bits);
+        var rotatedBits = Functions.Rotr2Rotr13Rotr22(bits);
 
         // Assert
         rotatedBits.Should().Be(0b_00111111_00000111_11110011_11111110);
@@ -65,7 +66,7 @@ public class FunctionsTests
         const UInt32 bits = 0b_00000000_00000000_00111111_11111111;
 
         // Act
-        var rotatedBits = Functions.Rtr6Rtr11Rtr25(bits);
+        var rotatedBits = Functions.Rotr6Rotr11Rotr25(bits);
 
         // Assert
         rotatedBits.Should().Be(0b_00000011_11111111_11111111_01111000);
@@ -102,28 +103,31 @@ public class FunctionsTests
     }
 
     [Test]
-    public void Test_07()
+    [Description("Deve converter a string para sua representação binária, segundo a tabela ASCII.")]
+    [TestCase("abc", "011000010110001001100011")]
+    [TestCase("123", "001100010011001000110011")]
+    [TestCase("SHA256", "010100110100100001000001001100100011010100110110")]
+    public void Test_07(string input, string output)
     {
-        // Arrange
-        const string input = "abc";
-
-        // Act
-        var inputAsBits = Functions.PaddingTo512Bits(input);
+        // Arrange / Act
+        var inputAsBits = input.ToBits();
 
         // Assert
-        inputAsBits.Should().Be("011000010110001001100011");
+        inputAsBits.Should().Be(output);
     }
 
     [Test]
+    [Description("Deve realizar o padding da mensagem para o tamanho final de 512 bits.")]
     public void Test_08()
     {
         // Arrange
-        const string input = "abc";
+        var input = "abc".ToBits();
 
         // Act
-        var inputAsBits = Functions.PaddingTo512Bits(input);
+        var inputAsBits = input.PaddingTo512Bits();
 
         // Assert
-        inputAsBits.Should().Be("011000010110001001100011");
+        inputAsBits.Length.Should().Be(512);
+        inputAsBits.Should().Be("01100001011000100110001110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011000");
     }
 }

@@ -1,4 +1,4 @@
-using System.Text;
+using System.Security.Cryptography;
 
 namespace Sha256;
 
@@ -9,22 +9,22 @@ public static class Functions
         return (bits >> n) | (bits << (32 - n));
     }
 
-    public static UInt32 Rtr7Rtr18Shr3(UInt32 x)
+    public static UInt32 Rotr7Rotr18Shr3(UInt32 x)
     {
         return RotateRight(x, 7) ^ RotateRight(x, 18) ^ (x >> 3);
     }
 
-    public static UInt32 Rtr17Rtr19Shr10(UInt32 x)
+    public static UInt32 Rotr17Rotr19Shr10(UInt32 x)
     {
         return RotateRight(x, 17) ^ RotateRight(x, 19) ^ (x >> 10);
     }
 
-    public static UInt32 Rtr2Rtr13Rtr22(UInt32 x)
+    public static UInt32 Rotr2Rotr13Rotr22(UInt32 x)
     {
         return RotateRight(x, 2) ^ RotateRight(x, 13) ^ RotateRight(x, 22);
     }
 
-    public static UInt32 Rtr6Rtr11Rtr25(UInt32 x)
+    public static UInt32 Rotr6Rotr11Rotr25(UInt32 x)
     {
         return RotateRight(x, 6) ^ RotateRight(x, 11) ^ RotateRight(x, 25);
     }
@@ -39,7 +39,7 @@ public static class Functions
         return (x & y) ^ (x & z) ^ (y & z);
     }
 
-    public static string ToBits(string input)
+    public static string ToBits(this string input)
     {
         var output = "";
         foreach (char c in input)
@@ -51,9 +51,11 @@ public static class Functions
         return output;
     }
 
-    public static string PaddingTo512Bits(string input)
+    public static string PaddingTo512Bits(this string input)
     {
-        var output = ToBits(input);
+        var length = (UInt64)input.Length;
+        var lengthAsBits = Convert.ToString((long)length, 2).PadLeft(64, '0');
+        var output = input;
 
         if (output.Length < 512)
         {
@@ -62,9 +64,12 @@ public static class Functions
 
         if (output.Length < 512)
         {
-            // Add zeros
+            while (output.Length < 448)
+            {
+                output += "0";
+            }
 
-            // Add input size into last 64 bits?
+            output += lengthAsBits;
         }
 
         return output;
