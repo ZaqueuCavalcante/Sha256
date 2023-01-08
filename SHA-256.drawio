@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T11:36:43.816Z" agent="5.0 (Windows)" etag="3ZWTx2rrAN8llRYjvnq7" version="20.8.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-08T17:17:44.182Z" agent="5.0 (Windows)" etag="lHIknaWUCR3Ipshr-yNG" version="20.8.3" type="github" pages="9">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2373" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2863,7 +2863,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="not0-MpnsbEoAk-GweEl" name="OAuth2">
-    <mxGraphModel dx="1438" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2985,24 +2985,24 @@
           <mxGeometry x="1360" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8t1ejLcpaXv_DsSpLTfA-2" value="Authentication" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="640" width="160" height="40" as="geometry" />
+          <mxGeometry x="1520" y="640" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8t1ejLcpaXv_DsSpLTfA-3" value="Authorization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="1760" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8t1ejLcpaXv_DsSpLTfA-4" value="Endpoints" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="1960" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8t1ejLcpaXv_DsSpLTfA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="8t1ejLcpaXv_DsSpLTfA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="8t1ejLcpaXv_DsSpLTfA-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1640" y="659.85" as="sourcePoint" />
-            <mxPoint x="1680" y="659.85" as="targetPoint" />
+            <mxPoint x="1680" y="659.85" as="sourcePoint" />
+            <mxPoint x="1720" y="659.85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8t1ejLcpaXv_DsSpLTfA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="8t1ejLcpaXv_DsSpLTfA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="8t1ejLcpaXv_DsSpLTfA-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1800" y="659.85" as="sourcePoint" />
-            <mxPoint x="1840" y="659.85" as="targetPoint" />
+            <mxPoint x="1880" y="659.85" as="sourcePoint" />
+            <mxPoint x="1920" y="659.85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
