@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T19:38:04.490Z" agent="5.0 (Windows)" etag="LJ5TJuy3qwVHqrUrUj11" version="20.8.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-08T19:38:33.282Z" agent="5.0 (Windows)" etag="xg54xZMVA_9DzOIko9uU" version="20.8.3" type="github" pages="9">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2373" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3151,7 +3151,7 @@
         <mxCell id="0C2S-NnK3x1PnlRtZAQk-6" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;flowAnimation=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.992;exitY=0.451;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0C2S-NnK3x1PnlRtZAQk-5" target="0C2S-NnK3x1PnlRtZAQk-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0C2S-NnK3x1PnlRtZAQk-7" value="Signature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="0C2S-NnK3x1PnlRtZAQk-7" value="Signature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2840" y="800" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0C2S-NnK3x1PnlRtZAQk-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;flowAnimation=1;" edge="1" parent="1">
