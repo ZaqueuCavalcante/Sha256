@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T01:23:21.730Z" agent="5.0 (Windows)" etag="aUGs8MqOXbZXps00aTja" version="20.8.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-12T01:23:32.278Z" agent="5.0 (Windows)" etag="7GQEafR7wwjlFLQ1x5ZY" version="20.8.3" type="github" pages="9">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="1978" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2973,7 +2973,7 @@
         <mxCell id="xgj02iCHzTTfqhFcx79y-39" value="Task title" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=11;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="980" y="80" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xgj02iCHzTTfqhFcx79y-40" value="High" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=9;fontFamily=Times New Roman;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="xgj02iCHzTTfqhFcx79y-40" value="Medium" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=9;fontFamily=Times New Roman;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1075" y="108.75" width="45" height="11.25" as="geometry" />
         </mxCell>
       </root>
