@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T01:24:40.296Z" agent="5.0 (Windows)" etag="eBj2XKL64WYD32QVc3H7" version="20.8.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-12T01:26:00.778Z" agent="5.0 (Windows)" etag="3G3ZkiFunUavLmwnqVr3" version="20.8.3" type="github" pages="9">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="1978" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2819,7 +2819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="57u2MrYKNF5gBpsIWjJm" name="Taskill">
-    <mxGraphModel dx="791" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="949" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2975,6 +2975,9 @@
         </mxCell>
         <mxCell id="xgj02iCHzTTfqhFcx79y-40" value="Medium" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=9;fontFamily=Times New Roman;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1075" y="108.75" width="45" height="11.25" as="geometry" />
+        </mxCell>
+        <mxCell id="xgj02iCHzTTfqhFcx79y-41" value="React" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=9;fontFamily=Times New Roman;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="980" y="108.75" width="45" height="11.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
