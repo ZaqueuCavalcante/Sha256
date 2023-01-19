@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T00:56:37.385Z" agent="5.0 (Windows)" etag="5B9nzTUcIl6sHSumFRqc" version="20.8.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-19T01:02:08.108Z" agent="5.0 (Windows)" etag="wzhbL6P3wuZsM3lErIB6" version="20.8.5" type="github" pages="9">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2373" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2819,7 +2819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="57u2MrYKNF5gBpsIWjJm" name="Taskill">
-    <mxGraphModel dx="1978" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2979,7 +2979,7 @@
         <mxCell id="xgj02iCHzTTfqhFcx79y-41" value="React" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=9;fontFamily=Times New Roman;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="980" y="108.75" width="45" height="11.25" as="geometry" />
         </mxCell>
-        <mxCell id="xgj02iCHzTTfqhFcx79y-43" value="2/5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=9;" parent="1" vertex="1">
+        <mxCell id="xgj02iCHzTTfqhFcx79y-43" value="0/5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="1030" y="108.75" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="xgj02iCHzTTfqhFcx79y-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=default;" parent="1" vertex="1">
@@ -3052,7 +3052,7 @@
             <mxRectangle width="120" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LsSPLe1BXMDo2i0AJSbq-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="1">
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="400" width="800" height="320" as="geometry" />
         </mxCell>
         <mxCell id="LsSPLe1BXMDo2i0AJSbq-42" value="Inbox" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;fontFamily=Times New Roman;" vertex="1" parent="1">
