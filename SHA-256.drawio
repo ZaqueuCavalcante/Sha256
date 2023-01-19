@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T02:18:17.454Z" agent="5.0 (Windows)" etag="s_H7uB3qcGCvdD9scapD" version="20.8.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-19T02:22:29.845Z" agent="5.0 (Windows)" etag="SqgrCjJMQvwlmvUfvoCv" version="20.8.5" type="github" pages="9">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2373" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2819,7 +2819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="57u2MrYKNF5gBpsIWjJm" name="Taskill">
-    <mxGraphModel dx="2373" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2937,13 +2937,13 @@
             <mxPoint x="2250" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xgj02iCHzTTfqhFcx79y-26" value="TODO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontFamily=Courier New;" parent="1" vertex="1">
+        <mxCell id="xgj02iCHzTTfqhFcx79y-26" value="TODO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontFamily=Courier New;" parent="1" vertex="1">
           <mxGeometry x="1730" y="90" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xgj02iCHzTTfqhFcx79y-27" value="DOING" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontFamily=Courier New;" parent="1" vertex="1">
+        <mxCell id="xgj02iCHzTTfqhFcx79y-27" value="DOING" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontFamily=Courier New;" parent="1" vertex="1">
           <mxGeometry x="1920" y="90" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xgj02iCHzTTfqhFcx79y-28" value="DONE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontFamily=Courier New;" parent="1" vertex="1">
+        <mxCell id="xgj02iCHzTTfqhFcx79y-28" value="DONE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontFamily=Courier New;" parent="1" vertex="1">
           <mxGeometry x="2110" y="90" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xgj02iCHzTTfqhFcx79y-29" value="" style="endArrow=none;html=1;rounded=0;orthogonal=0;dashed=1;strokeWidth=1;jumpStyle=none;jumpSize=6;shadow=0;" parent="1" edge="1">
