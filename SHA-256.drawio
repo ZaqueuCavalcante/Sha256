@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T01:56:57.679Z" agent="5.0 (Windows)" etag="6yJkC7_XMjmdJUUy77Wp" version="20.8.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-19T01:57:48.486Z" agent="5.0 (Windows)" etag="CKuP2RkU2qu_T-Uf807z" version="20.8.5" type="github" pages="9">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2373" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2819,7 +2819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="57u2MrYKNF5gBpsIWjJm" name="Taskill">
-    <mxGraphModel dx="1356" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1637" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3040,24 +3040,6 @@
         <mxCell id="LsSPLe1BXMDo2i0AJSbq-166" value="This is the task description. It should be short." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=0;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="840" y="480" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LsSPLe1BXMDo2i0AJSbq-168" value="This is a simple sub-task..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;dashed=1;fontSize=15;align=left;spacingLeft=40;" vertex="1" parent="1">
-          <mxGeometry x="860" y="530" width="680" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LsSPLe1BXMDo2i0AJSbq-169" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="870" y="537.5" width="25" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="LsSPLe1BXMDo2i0AJSbq-171" value="This is another simple sub-task..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;dashed=1;fontSize=15;align=left;spacingLeft=40;" vertex="1" parent="1">
-          <mxGeometry x="860" y="580" width="680" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LsSPLe1BXMDo2i0AJSbq-172" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="870" y="587.5" width="25" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="LsSPLe1BXMDo2i0AJSbq-173" value="This is a completed sub-task for example." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;dashed=1;fontSize=15;align=left;spacingLeft=40;strokeColor=#82B366;" vertex="1" parent="1">
-          <mxGeometry x="860" y="630" width="680" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LsSPLe1BXMDo2i0AJSbq-174" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;fillColor=#d5e8d4;strokeColor=#82B366;" vertex="1" parent="1">
-          <mxGeometry x="870" y="637.5" width="25" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="LsSPLe1BXMDo2i0AJSbq-175" value="Cloud" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="840" y="690" width="80" height="30" as="geometry" />
         </mxCell>
@@ -3237,6 +3219,33 @@
         </mxCell>
         <mxCell id="LsSPLe1BXMDo2i0AJSbq-98" value="0/2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=9;" vertex="1" parent="LsSPLe1BXMDo2i0AJSbq-187">
           <mxGeometry x="50" y="28.75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-188" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="860" y="530" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-168" value="This is a simple sub-task..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;dashed=1;fontSize=15;align=left;spacingLeft=40;" vertex="1" parent="LsSPLe1BXMDo2i0AJSbq-188">
+          <mxGeometry width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-169" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;" vertex="1" parent="LsSPLe1BXMDo2i0AJSbq-188">
+          <mxGeometry x="10" y="7.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-189" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="860" y="580" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-171" value="This is another simple sub-task..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;dashed=1;fontSize=15;align=left;spacingLeft=40;" vertex="1" parent="LsSPLe1BXMDo2i0AJSbq-189">
+          <mxGeometry width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-172" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;" vertex="1" parent="LsSPLe1BXMDo2i0AJSbq-189">
+          <mxGeometry x="10" y="7.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-190" value="" style="group" vertex="1" connectable="0" parent="LsSPLe1BXMDo2i0AJSbq-189">
+          <mxGeometry y="50" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-173" value="This is a completed sub-task for example." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;dashed=1;fontSize=15;align=left;spacingLeft=40;strokeColor=#82B366;" vertex="1" parent="LsSPLe1BXMDo2i0AJSbq-190">
+          <mxGeometry width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-174" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;fillColor=#d5e8d4;strokeColor=#82B366;" vertex="1" parent="LsSPLe1BXMDo2i0AJSbq-190">
+          <mxGeometry x="10" y="7.5" width="25" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
