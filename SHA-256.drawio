@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T01:09:31.939Z" agent="5.0 (Windows)" etag="5QOL2XlAN9gQH9-mNIC2" version="20.8.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-19T01:14:30.214Z" agent="5.0 (Windows)" etag="0AL2xGdCqNt6vau6EIeO" version="20.8.5" type="github" pages="9">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2373" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2819,7 +2819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="57u2MrYKNF5gBpsIWjJm" name="Taskill">
-    <mxGraphModel dx="1396" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3081,6 +3081,36 @@
         </mxCell>
         <mxCell id="LsSPLe1BXMDo2i0AJSbq-93" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
           <mxGeometry x="1560" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="940" y="270" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-95" value="Use Bogus to get test data" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=11;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="940" y="270" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-96" value="Low" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=9;fontFamily=Times New Roman;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="298.75" width="45" height="11.25" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-97" value="DotNet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=9;fontFamily=Times New Roman;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="940" y="298.75" width="45" height="11.25" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-98" value="0/2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="990" y="298.75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-99" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="940" y="320" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-100" value="Deploy app on GCP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=11;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="940" y="320" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-101" value="Low" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=9;fontFamily=Times New Roman;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="348.75" width="45" height="11.25" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-102" value="Cloud" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=9;fontFamily=Times New Roman;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="940" y="348.75" width="45" height="11.25" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-103" value="0/7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="990" y="348.75" width="40" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
