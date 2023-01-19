@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T02:01:07.506Z" agent="5.0 (Windows)" etag="P4OtVNflIaTo71X7eKae" version="20.8.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-19T02:10:36.102Z" agent="5.0 (Windows)" etag="wTfIjqceKP_1_WQiTwvy" version="20.8.5" type="github" pages="9">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2373" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2819,7 +2819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="57u2MrYKNF5gBpsIWjJm" name="Taskill">
-    <mxGraphModel dx="2373" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1978" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3252,6 +3252,21 @@
         </mxCell>
         <mxCell id="LsSPLe1BXMDo2i0AJSbq-192" value="Label" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=13;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1480" y="480" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-193" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="80" width="720" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-194" value="email" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;fontColor=#687777;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="160" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-195" value="password" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;fontColor=#687777;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="210" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-197" value="Register" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1937.5" y="280" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsSPLe1BXMDo2i0AJSbq-198" value="Create a new account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1860" y="100" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
