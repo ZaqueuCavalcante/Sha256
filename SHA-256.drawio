@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T14:19:08.462Z" agent="5.0 (Windows)" etag="VnL0THpPiUv7rURRvTK1" version="20.8.10" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-22T14:20:21.911Z" agent="5.0 (Windows)" etag="2fk3IuP1hzUF2QqyRgQR" version="20.8.10" type="github" pages="9">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2074" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2617,10 +2617,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3lYZjB0NTltLRM-nuhny" name="Dotnet">
-    <mxGraphModel dx="3771" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0IQzTJ28ygpEvvmj2HQd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="460" width="720" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="8OnBjK_xxZkdtiqut1Og-1" value="&lt;div&gt;Dotnet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1290" y="30" width="100" height="40" as="geometry" />
         </mxCell>
@@ -2780,6 +2783,9 @@
               <mxPoint x="1839.9" y="520" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sjAqAdw_6sPg_YkBLKa5-1" value="Configuring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
