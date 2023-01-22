@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T14:22:22.013Z" agent="5.0 (Windows)" etag="V2lhwkEGIBanqSdG-7QH" version="20.8.10" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-22T14:22:52.044Z" agent="5.0 (Windows)" etag="ulT4uVWrJDvs8KoFBjHS" version="20.8.10" type="github" pages="9">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2074" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2617,7 +2617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3lYZjB0NTltLRM-nuhny" name="Dotnet">
-    <mxGraphModel dx="2963" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2784,8 +2784,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sjAqAdw_6sPg_YkBLKa5-1" value="Configuring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="390" y="560" width="230" height="40" as="geometry" />
+        <mxCell id="sjAqAdw_6sPg_YkBLKa5-1" value="Providers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
