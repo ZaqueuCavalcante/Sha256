@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T14:27:02.781Z" agent="5.0 (Windows)" etag="lJqPQtD4NLWIZjQiWokH" version="20.8.10" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-22T14:35:55.372Z" agent="5.0 (Windows)" etag="e85DbzQ2mXB29k3mpCzq" version="20.8.10" type="github" pages="9">
   <diagram id="SgPVI4OfAQDJ4Op12l3S" name="SHA-256">
     <mxGraphModel dx="2074" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2368,7 +2368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sVYxCH4EQUGMHe45GJaQ" name="Docker">
-    <mxGraphModel dx="2373" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4148" dy="1492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2517,7 +2517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ikq9gCk40znZLqPkK2WF" name="HTTPS">
-    <mxGraphModel dx="1546" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2603,9 +2603,6 @@
         </mxCell>
         <mxCell id="-HFo2a4hSio_8m-JPtDK-4" value="OSI MODEL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1745.5" y="40" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-HFo2a4hSio_8m-JPtDK-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://media.fs.com/images/community/upload/kindEditor/202107/29/original-seven-layers-of-osi-model-1627523878-JYjV8oybcC.png;imageBorder=default;" parent="1" vertex="1">
-          <mxGeometry x="1550" y="100" width="511" height="520" as="geometry" />
         </mxCell>
         <mxCell id="-HFo2a4hSio_8m-JPtDK-6" value="Subnet" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="915" y="210" width="120" height="40" as="geometry" />
@@ -2790,6 +2787,15 @@
         <mxCell id="0IQzTJ28ygpEvvmj2HQd-2" value="Environment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;verticalAlign=bottom;fontStyle=1;fontSize=20;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="560" y="480" width="280" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="0IQzTJ28ygpEvvmj2HQd-5" value="App" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0IQzTJ28ygpEvvmj2HQd-6" value="Settings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0IQzTJ28ygpEvvmj2HQd-7" value="Secrets" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;fontStyle=1;fontSize=16;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -2828,7 +2834,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="57u2MrYKNF5gBpsIWjJm" name="Taskill">
-    <mxGraphModel dx="2963" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5926" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
